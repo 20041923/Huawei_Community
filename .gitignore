@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+
+# Logs
+logs/
+
+# IDE
+.idea/
+
+# Virtual environment
+.venv/
