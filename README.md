@@ -51,7 +51,7 @@ Huawei_Community/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/your-username/huawei-xinsheng-crawler.git
+git clone https://github.com/20041923/Huawei_Community.git
 cd Huawei_Community
 ```
 
@@ -189,9 +189,9 @@ def main():
 
 ## 联系方式
 
-- 作者：Your Name
-- 邮箱：your.email@example.com
-- 项目链接：[https://github.com/your-username/huawei-xinsheng-crawler](https://github.com/your-username/huawei-xinsheng-crawler)
+- 作者：明天不熬夜了
+- 邮箱：1969704509@qq.com
+- 项目链接：[https://github.com/20041923/Huawei_Community](https://github.com/20041923/Huawei_Community)
 
 ---
 
